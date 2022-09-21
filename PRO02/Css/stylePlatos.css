@@ -1,0 +1,28 @@
+body {
+    background-color: #f5eec5;
+    font-family: 'Open Sans', sans-serif;
+}
+h2 {
+    
+    background-color: #F4E06D;
+    color: #748DA6;
+}
+
+h1 {
+    
+    color: #ABD9FF;
+}
+
+i {
+    color: #748DA6;
+
+}
+
+em {
+    color: #748DA6;
+
+}
+
+p {
+    margin-left: 20px;
+}
